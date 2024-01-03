@@ -1,0 +1,8 @@
+from setuptools import setup
+
+setup(
+    name='sqflite_helper',
+    version='1.0.0',
+    license='MIT',
+    # other metadata...
+)
